@@ -1,0 +1,26 @@
+[
+{
+"id": 1,
+"name": "Himanshu Kumar",
+"phone": "7979747432",
+"email": "hima428@gmail.com"
+},
+{
+"id": 2,
+"name": "Sanjay Kumar",
+"phone": "8294210229",
+"email": "sanjay123@gmail.com"
+},
+{
+"id": 3,
+"name": "Adarsh Kumar",
+"phone": "8986594403",
+"email": "adarsh428@gmail.com"
+},
+{
+"id": 4,
+"name": "Piyush Kumar",
+"phone": "9876543210",
+"email": "piyush123@gmail.com"
+}
+]
